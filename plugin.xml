@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="tutorial2.ViewPart2"
+            id="tutorial2.view2"
+            name="name"
+            restorable="true">
+      </view>
+   </extension>
+
+</plugin>
